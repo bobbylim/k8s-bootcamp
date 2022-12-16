@@ -5,7 +5,7 @@ metadata:
   name: vs-arcadia
 spec:
   ingressClassName: nginx
-  host: arcadia.vs.r31.org
+  host: arcadia.vs.f5demo.id
   tls:
     secret: default-server-secret
   upstreams:
